@@ -1,5 +1,8 @@
 # Bookei
 - An AI-powered book generator.
+- It can generate thousands of words.
+- It can generate really big books.
+- It can keep a pretty strong and consistent narrative flow.
 
 A little project I decided to make to start learning python
 
