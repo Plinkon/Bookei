@@ -17,6 +17,15 @@ A little project I decided to make to start learning python
   pip install -r requirements.txt
   ```
 - Run `final.py` or `gui.py` (for a GUI)
+  ``` bash
+  python final.py
+  ```
+
+  or for GUI
+
+  ``` bash
+  python gui.py
+  ```
 
 ## Notices:
 - Can successfully generate books up to ~80,000 total words with somewhat good narrative flow and with staying on topic all with one API key (free tier)
