@@ -1,5 +1,6 @@
 # Bookei
-An AI-powered book generator
+- An AI-powered book generator.
+
 A little project I decided to make to start learning python
 
 ## How to use?
