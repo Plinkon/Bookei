@@ -7,4 +7,4 @@ An AI-powered book generator
 - Run `final.py` or `gui.py` (for a GUI)
 
 ## Notices:
-- Can successfully generate books up to ~80,000 total words with somewhat good narrative flow and with staying on topic
+- Can successfully generate books up to ~80,000 total words with somewhat good narrative flow and with staying on topic all with one API key (free tier)
